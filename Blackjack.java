@@ -28,6 +28,7 @@ import com.nttdocomo.ui.UIException;
  */
 
 
+
 public class Blackjack extends IApplication {
     
     
