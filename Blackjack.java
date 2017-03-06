@@ -27,7 +27,8 @@ import com.nttdocomo.ui.UIException;
  * @author NAME
  */
 
-//テスト
+
+//戻す前
 public class Blackjack extends IApplication {
     
     
